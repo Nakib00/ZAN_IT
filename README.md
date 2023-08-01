@@ -1,15 +1,15 @@
-# ZAN IT Website
+# [ZAN IT Website](https://nakib00.github.io/ZAN_IT/index.html)
 
 Welcome to the ZAN IT website! This readme file will guide you through the content and features of our website to help you make the most of your visit.
 
 ## Table of Contents
 
-1. Introduction
-2. About Us
-3. Services
-4. Portfolio
-5. Testimonials
-6. Contact Us
+1. [Introduction](#introduction)
+2. [About Us](#about-us)
+3. [Services](#services)
+4. [Portfolio](#portfolio)
+5. [Testimonials](#testimonials)
+6. [Contact Us](#contact-us)
 
 ## 1. Introduction
 
@@ -37,4 +37,4 @@ If you have any questions or want to discuss your IT requirements, the "Contact 
 
 ## Conclusion
 
-Thank you for visiting the ZAN IT website! We hope this readme file has given you a clear overview of what our website has to offer. Should you need any assistance or wish to explore how ZAN IT can elevate your IT capabilities, do not hesitate to get in touch. Our dedicated team is ready to assist you with unparalleled IT solutions.
+Thank you for visiting the ZAN IT website! We hope this readme file has given you a clear overview of what our website has to offer. Should you need any assistance or wish to explore how ZAN IT can elevate your IT capabilities, do not hesitate to [get in touch](https://nakib00.github.io/ZAN_IT/contact.html). Our dedicated team is ready to assist you with unparalleled IT solutions.
